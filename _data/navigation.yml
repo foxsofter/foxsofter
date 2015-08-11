@@ -1,19 +1,13 @@
 # Site navigation links
 
-- title: About
+- title: 关于
   url: /about/
 
-- title: Articles
+- title: 博客
   url: /articles/
 
-- title: Blog
+- title: 生活
   url: /blog/
 
-- title: Theme Setup
-  url: /theme-setup/
-
-- title: Made Mistakes
-  url: http://mademistakes.com
-
-- title: Search
+- title: 搜索
   url: /search/

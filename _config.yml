@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
-locale: en_US
-description: Describe your website here.
+title: 稻子
+locale: zh_CN
+description: 码农的幸福生活
 logo: site-logo.png
 search: true
 url: http://localhost:4000
@@ -33,13 +33,12 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: 稻子
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: foxsofter@gmail.com
   disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
+  twitter: foxsofter
+  github: foxsofter
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
@@ -48,7 +47,7 @@ owner:
   pinterest: #username
   weibo: #userid
   google:
-    plus: #username
+    plus: #foxsofter
     analytics:
     verify:
     ad-client:

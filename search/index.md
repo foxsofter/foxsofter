@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Search"
-date: 
+title: "搜索"
+date:
 modified:
 excerpt:
 image:
@@ -9,7 +9,7 @@ image:
 search_omit: true
 sitemap: false
 ---
-  
+
 <!-- Search form -->
 <form method="get" action="{{ site.url }}/search/" data-search-form class="simple-search">
   <label for="q">Search {{ site.title }} for:</label>
