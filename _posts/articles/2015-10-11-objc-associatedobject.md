@@ -57,7 +57,7 @@ author: foxsofter
  @end
 </pre></code>
 
-使用事例
+使用例子
 
 <pre><code>
 //
