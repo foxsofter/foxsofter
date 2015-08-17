@@ -5,12 +5,9 @@ excerpt: "Just about everything you'll need to style in the theme: headings, par
 modified: 2013-05-31
 categories: articles
 tags: [sample-post]
-image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 comments: true
 share: true
+author: foxsofter
 ---
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.

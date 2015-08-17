@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 文章列表
+title: 文章
 excerpt: "An archive of articles sorted by date."
 search_omit: true
 ---
