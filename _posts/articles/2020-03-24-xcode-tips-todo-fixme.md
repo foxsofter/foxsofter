@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Xcode小技巧-优雅的TODO和FIXME
-excerpt: ""
+title: 在xcode中优雅的TODO和FIXME
+excerpt: "这些xcode小技巧可以提高效率"
 modified: 2020-03-24
 categories: articles
 tags: [objective c][xcode]

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 移动开发-iOS App构建最佳实践探索
-excerpt: ""
+title: iOS App构建最佳实践探索
+excerpt: "总结关于iOS App构建的一些最佳实践"
 modified: 2020-03-24
 categories: articles
 tags: [objective c]
